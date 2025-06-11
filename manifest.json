@@ -1,6 +1,6 @@
 {
-    "name": "random_words_app",
-    "short_name": "random_words_app",
+    "name": "Prompta",
+    "short_name": "Prompta",
     "start_url": "/prompta/",
     "display": "standalone",
     "background_color": "#0175C2",
